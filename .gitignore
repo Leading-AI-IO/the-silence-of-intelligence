@@ -1,0 +1,14 @@
+# System Files
+.DS_Store
+Thumbs.db
+
+# Editor Directories
+.idea/
+.vscode/
+*.swp
+
+# Node / Build (Future proof)
+node_modules/
+build/
+dist/
+.env
