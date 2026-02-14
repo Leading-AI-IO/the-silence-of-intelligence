@@ -33,7 +33,7 @@ CoworkショックとClaude Codeの衝撃的舞台裏を描く、決定的ドキ
 ---
 
 ## Author & Maintainer
-**Satoshi Yamauchi**<br>
+**Satoshi Yamauchi** (山内 怜史)<br>
 *(Business Desiger & AI Strategist at Sun*)*<br>
 **[📒 Read my insights on Note](https://note.com/satoshi_yamauchi).**<br>
 *(Founder / AI Strategist at Leading.AI)*<br>
