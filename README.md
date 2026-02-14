@@ -7,15 +7,16 @@
 > **"Safety is not a constraint. It is the only way to scale intelligence."**
 
 ## Abstract
-"Integrity is the Ultimate Algorithm."
-He didn't need flashy keynotes or grand visions. All he needed was a Constitution and the laws of Physics.
-This is the definitive account of the "Cowork Shock" and the untold story behind Claude Code—the revolution that rewrote the rules of Silicon Valley.
+"Integrity is the Ultimate Algorithm."<br>
+He didn't need flashy keynotes or grand visions. All he needed was a Constitution and the laws of Physics.<br>
+This is the definitive account of the "Cowork Shock" and the untold story<br>
+behind Claude Code—the revolution that rewrote the rules of Silicon Valley.<br>
 
 ## 概要
-「誠実さこそが、最強の生存戦略（アルゴリズム）である」
-派手なプレゼンも、野心的なビジョンもいらない。
-必要なのは「憲法（Constitution）」と「物理法則（Physics）」だけだった。
-CoworkショックとClaude Codeの衝撃的舞台裏を描く、決定的ドキュメンタリー。
+「誠実さこそが、最強の生存戦略（アルゴリズム）である」<br>
+派手なプレゼンも、野心的なビジョンもいらない。<br>
+必要なのは「憲法（Constitution）」と「物理法則（Physics）」だけだった。<br>
+CoworkショックとClaude Codeの衝撃的舞台裏を描く、決定的ドキュメンタリー。<br>
 
 ---
 
@@ -32,14 +33,13 @@ CoworkショックとClaude Codeの衝撃的舞台裏を描く、決定的ドキ
 ---
 
 ## Author & Maintainer
-**Satoshi Yamauchi**
-*(Founder / AI Strategist at Leading.AI)*
-
-This project is part of the research by Leading.AI.
-We help companies implement "Agentic Engineering" and navigate the post-SaaS era.
-
-**[🌐 Visit Leading.AI Official Website](https://www.leading-ai.io/)**
-*(For consulting inquiries and strategic partnership)*
+**Satoshi Yamauchi**<br>
+*(Business Desiger & AI Strategist at Sun*)*<br>
+**[📒 Read my insights on Note](https://note.com/satoshi_yamauchi).**<br>
+*(Founder / AI Strategist at Leading.AI)*<br>
+This project is part of the research by Leading.AI.<br>
+**[🌐 Visit Leading.AI Official Website](https://www.leading-ai.io/)**<by>
+*(For consulting inquiries and strategic partnership)*<by>
 
 ---
 
