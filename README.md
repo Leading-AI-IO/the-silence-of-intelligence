@@ -20,7 +20,7 @@ CoworkショックとClaude Codeの衝撃的舞台裏を描く、決定的ドキ
 
 ---
 
-## 📖 Read the Full Document (本文を読む)
+## 📖 Read the Full Document
 
 ### 🇯🇵 [日本語版を読む (Full Japanese Text)](docs/ja/the_silence_of_intelligence.md)
 * **推定読了時間:** 15分
