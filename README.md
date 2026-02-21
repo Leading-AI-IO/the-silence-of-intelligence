@@ -38,14 +38,14 @@ CoworkショックとClaude Codeの衝撃的舞台裏を描く、決定的ドキ
 **[📒 Read my insights on Note](https://note.com/satoshi_yamauchi).**<br>
 *(Founder / AI Strategist at Leading.AI)*<br>
 This project is part of the research by Leading.AI.<br>
-**[🌐 Visit Leading.AI Official Website](https://www.leading-ai.io/)**<by>
-*(For consulting inquiries and strategic partnership)*<by>
+**[🌐 Visit Leading.AI Official Website](https://www.leading-ai.io/)**<br>
+*(For consulting inquiries and strategic partnership)*<br>
 
 ---
 
 ## Contribution
 Issues and Pull Requests are welcome.
-If you find any typos or have updated information about Scaling Laws, please feel free to contribute.
+If you find any typos or have updated information about Palantir and Ontology, please feel free to contribute.
 
 誤字脱字の修正や、最新の論文情報の提供など、エンジニアの皆様からのPull Requestを歓迎します。
 
