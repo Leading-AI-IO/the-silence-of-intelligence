@@ -43,6 +43,17 @@ This project is part of the research by Leading.AI.<br>
 
 ---
 
+## Related Projects
+
+本書は、以下のオープンソースプロジェクトと連携しています。
+
+- **[Depth & Velocity](https://github.com/Leading-AI-IO/depth-and-velocity)** <br>
+— 生成AI時代の新規事業開発方法論。従来の「広く浅い」アプローチに代わる、深さと速度を両立する実践フレームワーク。
+- **[パランティアの衝撃：オントロジー戦略](https://github.com/Leading-AI-IO/palantir-ontology-strategy)** <br>
+— Palantir Foundryの中核概念「オントロジー」を解き明かすOSS書籍。データとAIを繋ぎ、現実世界の運用を駆動する戦略を体系化。
+
+---
+
 ## Contribution
 Issues and Pull Requests are welcome.
 If you find any typos or have updated information about Palantir and Ontology, please feel free to contribute.
