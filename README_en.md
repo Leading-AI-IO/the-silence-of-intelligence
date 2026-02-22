@@ -60,6 +60,17 @@ This project is part of the research by Leading.AI.<br>
 
 ---
 
+## Related Projects
+
+This book is part of a series of open-source research projects:
+
+- **[Depth & Velocity](https://github.com/Leading-AI-IO/depth-and-velocity)** <br>
+   — A methodology for new business development in the generative AI era. A practical framework that achieves both depth and speed.
+- **[The Palantir Impact: Ontology Strategy](https://github.com/Leading-AI-IO/palantir-ontology-strategy)** <br>
+   — A comprehensive guide to Palantir Foundry's Ontology strategy. Decodes the core concept that connects data, AI, and real-world operations.
+
+---
+
 ## Contribution
 Issues and Pull Requests are welcome.
 If you find any typos or have updated information about Palantir and Ontology, please feel free to contribute.
