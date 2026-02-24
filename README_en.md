@@ -3,6 +3,10 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Language](https://img.shields.io/badge/Language-English%20%7C%20Japanese-blue)](docs/)
 
+<p align="left">
+  <img src="./assets/cover_design.jpg" width="80%">
+</p>
+
 *Read this in other languages: [日本語 (Japanese)](README.md)*
 
 > "Data is no longer a record of the past. It is the engine that drives the real world."
