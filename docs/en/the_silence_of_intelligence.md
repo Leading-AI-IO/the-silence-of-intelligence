@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="../../assets/cover_design.jpg" width="80%">
+</p>
+
 # Prologue: The Silence and the Shock of 2026
 
 **February 2026**. Silicon Valley is enveloped in a strange silence.
