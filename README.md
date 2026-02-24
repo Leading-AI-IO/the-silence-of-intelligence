@@ -4,6 +4,10 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Language](https://img.shields.io/badge/Language-English%20%7C%20Japanese-blue)](docs/)
 
+<p align="left">
+  <img src="./assets/cover_design.jpg" width="80%">
+</p>
+
 > **"Safety is not a constraint. It is the only way to scale intelligence."**
 
 ## Abstract
