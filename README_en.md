@@ -1,6 +1,6 @@
 # The Palantir Impact: Ontology Strategy Connecting Data and AI 🌐
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Language](https://img.shields.io/badge/Language-English%20%7C%20Japanese-blue)](docs/)
 
 <p align="left">
@@ -82,4 +82,5 @@ If you find any typos or have updated information about Palantir and Ontology, p
 We welcome Pull Requests from engineers, such as correcting typographical errors or providing the latest paper/technical information.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).<br>
+© 2026 Satoshi Yamauchi / Leading AI — Licensed under CC BY 4.0
