@@ -1,8 +1,12 @@
+# The Silence of Intelligence: A Documentary of Dario Amodei
+
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 <p align="left">
   <img src="../../assets/cover_design.jpg" width="80%">
 </p>
 
-# Prologue: The Silence and the Shock of 2026
+## Prologue: The Silence and the Shock of 2026
 
 **February 2026**. Silicon Valley is enveloped in a strange silence.
 
