@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="../../assets/cover_design.jpg" width="80%">
+</p>
+
 # 序章：2026年の静寂と衝撃
 
 2026年2月、シリコンバレーは奇妙な静寂に包まれていた。
