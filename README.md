@@ -1,7 +1,7 @@
 # The Silence of Intelligence: A Documentary of Dario Amodei
 **沈黙の物理学者、Anthropic CEO ダリオ・アモディ。**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Language](https://img.shields.io/badge/Language-English%20%7C%20Japanese-blue)](docs/)
 
 <p align="left">
@@ -65,4 +65,5 @@ If you find any typos or have updated information about Palantir and Ontology, p
 誤字脱字の修正や、最新の論文情報の提供など、エンジニアの皆様からのPull Requestを歓迎します。
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).<br>
+© 2026 Satoshi Yamauchi / Leading AI — Licensed under CC BY 4.0
