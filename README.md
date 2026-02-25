@@ -51,10 +51,12 @@ This project is part of the research by Leading.AI.<br>
 
 本書は、以下のオープンソースプロジェクトと連携しています。
 
-- **[Depth & Velocity](https://github.com/Leading-AI-IO/depth-and-velocity)** <br>
-— 生成AI時代の新規事業開発方法論。従来の「広く浅い」アプローチに代わる、深さと速度を両立する実践フレームワーク。
-- **[パランティアの衝撃：オントロジー戦略](https://github.com/Leading-AI-IO/palantir-ontology-strategy)** <br>
-— Palantir Foundryの中核概念「オントロジー」を解き明かすOSS書籍。データとAIを繋ぎ、現実世界の運用を駆動する戦略を体系化。
+| プロジェクト | 概要 | リンク |
+|---|---|---|
+| **The AI Strategist** | AIストラテジストという職業を定義し、ビジネス×テクノロジー×クリエイティブの交差点で戦うための実践的フレームワーク | [GitHub](https://github.com/Leading-AI-IO/the-ai-strategist) |
+| **Depth & Velocity** | AI時代の新規事業開発方法論。深さと速さを両立する独自フレームワーク | [GitHub](https://github.com/Leading-AI-IO/depth-and-velocity) |
+| **Palantir Ontology Strategy** | Palantirのオントロジー戦略を徹底解剖。技術と経営の統合を読み解く | [GitHub](https://github.com/Leading-AI-IO/palantir-ontology-strategy) |
+| **What They Won't Teach You** | AIに有利な世代が教えない、AIの使い方と"思考のOS"。AI時代における世代間の責務を再定義する書籍 | [GitHub](https://github.com/Leading-AI-IO/what-they-wont-teach-you) |
 
 ---
 
