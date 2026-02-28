@@ -54,7 +54,7 @@ You can read through the book all at once from the link below.
 ---
 
 ## Author & Maintainer
-**Satoshi Yamauchi** (山内 怜史)<br>
+**Satoshi Yamauchi**<br>
 *(Business Designer & AI Strategist at SunAsterisk.inc)*<br>
 **[📒 Read my insights on Note](https://note.com/satoshi_yamauchi).**<br>
 *(Founder / AI Strategist at Leading.AI)*<br>
