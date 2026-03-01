@@ -57,6 +57,7 @@ This project is part of the research by Leading.AI.<br>
 | **Depth & Velocity** | AI時代の新規事業開発方法論。深さと速さを両立する独自フレームワーク | [GitHub](https://github.com/Leading-AI-IO/depth-and-velocity) |
 | **Palantir Ontology Strategy** | Palantirのオントロジー戦略を徹底解剖。技術と経営の統合を読み解く | [GitHub](https://github.com/Leading-AI-IO/palantir-ontology-strategy) |
 | **What They Won't Teach You** | AIに有利な世代が教えない、AIの使い方と"思考のOS"。AI時代における世代間の責務を再定義する書籍 | [GitHub](https://github.com/Leading-AI-IO/what-they-wont-teach-you) |
+| **The Edge of Intelligence** | AIがあなたのデバイスで動く時代：クラウドの終わりと、エッジの始まり。 | [GitHub](https://github.com/Leading-AI-IO/edge-ai-intelligence) |
 
 ---
 
