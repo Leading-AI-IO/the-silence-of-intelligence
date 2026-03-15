@@ -5,7 +5,7 @@
 [![Language](https://img.shields.io/badge/Language-English%20%7C%20Japanese-blue)](docs/)
 
 <p align="left">
-  <img src="./assets/cover_design.png" width="80%">
+  <img src="./assets/cover_design.png" width="70%">
 </p>
 
 > **"Safety is not a constraint. It is the only way to scale intelligence."**
