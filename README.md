@@ -58,6 +58,7 @@ CoworkショックとClaude Codeの衝撃的舞台裏を描く、決定的ドキ
 | **Palantir Ontology Strategy** | Palantirのオントロジー戦略を徹底解剖。技術と経営の統合を読み解く | [GitHub](https://github.com/Leading-AI-IO/palantir-ontology-strategy) |
 | **What They Won't Teach You** | AIに有利な世代が教えない、AIの使い方と"思考のOS"。AI時代における世代間の責務を再定義する書籍 | [GitHub](https://github.com/Leading-AI-IO/what-they-wont-teach-you) |
 | **The Edge of Intelligence** | AIがあなたのデバイスで動く時代：クラウドの終わりと、エッジの始まり。 | [GitHub](https://github.com/Leading-AI-IO/edge-ai-intelligence) |
+| **Advertising, Redesigned** | AIが広告を「割り込み」から「優しい提案」に変える。検索の終焉、広告が初めて「歓迎される存在」になる未来。 | [GitHub](https://github.com/Leading-AI-IO/advertising-redesigned) |
 
 ---
 
