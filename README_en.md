@@ -81,6 +81,7 @@ This book is part of a series of open-source research projects:
 | **Advertising, Redesigned** |  Why AI will transform advertising from intrusion to a gentle, welcome proposal | [GitHub](https://github.com/Leading-AI-IO/advertising-redesigned) |
 | **The AI Organization** | The root cause of AI failure is not technology. Organizational theory for the AI era | [GitHub](https://github.com/Leading-AI-IO/the-ai-organization)  |
 | **The Structural Shift from SaaS** | SaaSからService-as-a-Softwareへの構造的転換。Next SaaS ビジネスモデル。| [GitHub](https://github.com/Leading-AI-IO/saas-is-dead-the-next-ai-business-model) |
+| **The 10:80:10 Principle** | The optimal balance for human-AI synergy:「10:80:10」in the AI era. | [GitHub](https://github.com/Leading-AI-IO/the-10-80-10-principle)  |
 
 ---
 
