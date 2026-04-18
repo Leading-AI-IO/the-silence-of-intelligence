@@ -65,6 +65,7 @@ CoworkショックとClaude Codeの衝撃的舞台裏を描く、決定的ドキ
 | **The AI Organization** | AI導入が失敗する本質は技術ではなく組織にある。AI時代の組織論 | [GitHub](https://github.com/Leading-AI-IO/the-ai-organization)  |
 | **The Structural Shift from SaaS** | SaaSからService-as-a-Softwareへの構造的転換。Next SaaS ビジネスモデル。| [GitHub](https://github.com/Leading-AI-IO/saas-is-dead-the-next-ai-business-model)  |
 | **The 10:80:10 Principle** | 人とAIの共創黄金比「10:80:10」の法則——AI時代の思考のOS。| [GitHub](https://github.com/Leading-AI-IO/the-10-80-10-principle)  |
+| **A Trillion Dollars and a Firebomb** | 1兆ドルと火炎瓶。AI時代の同時加速する現実。 | [GitHub](https://github.com/Leading-AI-IO/a-trillion-and-a-firebomb)  |
 
 ---
 
