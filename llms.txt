@@ -1,24 +1,44 @@
-# The Silence of Intelligence: A Documentary of Dario Amodei
+# 沈黙の物理学者、Anthropic CEO ダリオ・アモディ。
 
-> "The Silence of Intelligence" is a documentary-style analysis by Satoshi
-> Yamauchi (山内怜史), AI Strategist, systematizing the philosophy of
-> Anthropic CEO Dario Amodei — Scaling Laws, AI safety, and the future of
-> humanity — centered on the untold story behind the "Cowork Shock" and
-> Claude Code.
+> A documentary by Satoshi Yamauchi (山内怜史), AI Strategist, following
+> Anthropic CEO Dario Amodei from his 2016 paper "Concrete Problems in AI
+> Safety," through the 2020 discovery of Scaling Laws, the founding of
+> Anthropic as a Public Benefit Corporation, Constitutional AI, and
+> mechanistic interpretability, to a 2026 setting in which AI agents operate
+> software directly via API — a phenomenon the book calls the "Cowork Shock"
+> — ending the era of human-facing SaaS interfaces. As stated in the book:
+> "Safety is not a constraint. It is the only way to scale intelligence."
 
 ## Book Content
 
-- [Full text (Japanese)](docs/ja/the_silence_of_intelligence.md): 序章〜第5章・参考文献収録。推定読了時間15分
-- [Full text (English)](docs/en/the_silence_of_intelligence.md): Complete documentary from Intro to Epilogue. Estimated reading time: 15 min
+- [Full text (Japanese)](docs/ja/the_silence_of_intelligence.md): 序章〜第5章・終章・参考文献8件収録
+- [Full text (English)](docs/en/the_silence_of_intelligence.md): Complete documentary from Intro to Epilogue
 
-## Key Facts (specific to this book)
+## Key Facts (as stated in the book)
 
-- Central thesis: "Integrity is the Ultimate Algorithm" — Dario Amodei
-  needed no flashy keynotes or grand visions, only a Constitution and the
-  laws of Physics
-- Core proposition: "Safety is not a constraint. It is the only way to
-  scale intelligence."
-- Documents the untold story behind the "Cowork Shock" and Claude Code
+- The book opens with a 2026 setting in which SaaS tools are being
+  cancelled en masse, a phenomenon the book names "Coworkショック" (the
+  "Cowork Shock"): AI agents communicate directly via API and operate
+  software without human-facing interfaces
+- The book states its central thesis in Chapter 3: "Safety (Safety) and
+  capability (Capability) are not a trade-off. A safe AI is the most
+  capable AI." ("安全性（Safety）と能力（Capability）はトレードオフではない。
+  安全なAIこそが、最も能力が高いAIなのだ。")
+- The book's epilogue states: "'Being Ethical' is not charity. It is the
+  most rational and robust competitive advantage (Moat)." ("『倫理的で
+  あること（Being Ethical）』は、慈善事業ではない。それは、最も合理的で、
+  最も強固な『競争優位性（Moat）』なのだと。")
+- The book traces four papers/essays as primary sources, in this order:
+  "Concrete Problems in AI Safety" (2016, Amodei with Chris Olah at Google
+  Brain), "Scaling Laws for Neural Language Models" (2020, lead co-author
+  Jared Kaplan), "Constitutional AI: Harmlessness from AI Feedback" (2022),
+  and "Machines of Loving Grace" (Amodei's own essay, October 2024)
+- The book states that Anthropic was structured as a Public Benefit
+  Corporation (PBC), with a "Long-Term Benefit Trust" (LTBT) holding
+  majority power over director appointment/removal — described in the book
+  as a safeguard "so that even the founders cannot override the mission"
+- Full reference list of 8 primary sources (dated, with URLs) is included
+  in the book
 
 ## Author & Full Catalog
 
