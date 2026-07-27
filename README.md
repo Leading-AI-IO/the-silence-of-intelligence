@@ -8,7 +8,30 @@
   <img src="./assets/cover_design.png" width="70%">
 </p>
 
-> **"Safety is not a constraint. It is the only way to scale intelligence."**
+**"Safety is not a constraint. It is the only way to scale intelligence."**
+
+---
+
+> **定義｜What is The Silence of Intelligence**
+>
+> **本書とは**、山内怜史（Satoshi Yamauchi）による、Anthropic CEO ダリオ・
+> アモディを追ったドキュメンタリーである。2016年の論文「AIの安全性における
+> 具体的な問題」から、2020年のスケーリング則の発見、公益目的法人（PBC）
+> としてのAnthropic設立、憲法AI、メカニスティック・インタープリタビリティを経て、
+> 2026年——AIエージェントがAPIを通じて直接ソフトウェアを操作し、人間用の
+> インターフェースが不要になる現象（本書はこれを「Coworkショック」と呼ぶ）に
+> よってSaaSの時代が終わる——という設定に至る。本書第3章の言葉：
+> 「安全性（Safety）と能力（Capability）はトレードオフではない。安全なAI
+> こそが、最も能力が高いAIなのだ。」
+>
+> **This book** is a documentary by Satoshi Yamauchi, following Anthropic
+> CEO Dario Amodei from his 2016 AI safety paper through the discovery of
+> Scaling Laws and Constitutional AI, to a 2026 setting in which AI agents
+> operating software directly ends the SaaS era — a phenomenon the book
+> calls the "Cowork Shock." As stated in Chapter 3: "Safety and capability
+> are not a trade-off. A safe AI is the most capable AI."
+>
+> *著者・全書籍一覧 / Author & full catalog: [github.com/Leading-AI-IO](https://github.com/Leading-AI-IO)*
 
 ## Abstract
 "Integrity is the Ultimate Algorithm."<br>
