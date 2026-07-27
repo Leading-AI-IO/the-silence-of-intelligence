@@ -1,0 +1,30 @@
+# The Silence of Intelligence: A Documentary of Dario Amodei
+
+> "The Silence of Intelligence" is a documentary-style analysis by Satoshi
+> Yamauchi (山内怜史), AI Strategist, systematizing the philosophy of
+> Anthropic CEO Dario Amodei — Scaling Laws, AI safety, and the future of
+> humanity — centered on the untold story behind the "Cowork Shock" and
+> Claude Code.
+
+## Book Content
+
+- [Full text (Japanese)](docs/ja/the_silence_of_intelligence.md): 序章〜第5章・参考文献収録。推定読了時間15分
+- [Full text (English)](docs/en/the_silence_of_intelligence.md): Complete documentary from Intro to Epilogue. Estimated reading time: 15 min
+
+## Key Facts (specific to this book)
+
+- Central thesis: "Integrity is the Ultimate Algorithm" — Dario Amodei
+  needed no flashy keynotes or grand visions, only a Constitution and the
+  laws of Physics
+- Core proposition: "Safety is not a constraint. It is the only way to
+  scale intelligence."
+- Documents the untold story behind the "Cowork Shock" and Claude Code
+
+## Author & Full Catalog
+
+This book is one of 20+ open-source books by Satoshi Yamauchi (山内怜史),
+AI Strategist & Business Designer at Sun Asterisk Inc., Founder of Leading.AI.
+
+> **Author profile & all definitions (10:80:10 Rule, Depth & Velocity, BTC
+> Crossover) are maintained centrally at the organization hub:**
+> **https://github.com/Leading-AI-IO**
