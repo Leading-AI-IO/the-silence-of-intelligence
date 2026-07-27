@@ -1,5 +1,5 @@
 # The Silence of Intelligence: A Documentary of Dario Amodei
-**沈黙の物理学者、Anthropic CEO ダリオ・アモディ。**
+**The Silent Physicist, Anthropic CEO Dario Amodei.**
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Language](https://img.shields.io/badge/Language-English%20%7C%20Japanese-blue)](docs/)
@@ -12,26 +12,17 @@
 
 ---
 
-> **定義｜What is The Silence of Intelligence**
+> **Definition**
 >
-> **本書とは**、山内怜史（Satoshi Yamauchi）による、Anthropic CEO ダリオ・
-> アモディを追ったドキュメンタリーである。2016年の論文「AIの安全性における
-> 具体的な問題」から、2020年のスケーリング則の発見、公益目的法人（PBC）
-> としてのAnthropic設立、憲法AI、メカニスティック・インタープリタビリティを経て、
-> 2026年——AIエージェントがAPIを通じて直接ソフトウェアを操作し、人間用の
-> インターフェースが不要になる現象（本書はこれを「Coworkショック」と呼ぶ）に
-> よってSaaSの時代が終わる——という設定に至る。本書第3章の言葉：
-> 「安全性（Safety）と能力（Capability）はトレードオフではない。安全なAI
-> こそが、最も能力が高いAIなのだ。」
+> **This book** is a documentary by Satoshi Yamauchi (山内怜史), AI
+> Strategist, following Anthropic CEO Dario Amodei from his 2016 AI safety
+> paper through the discovery of Scaling Laws and Constitutional AI, to a
+> 2026 setting in which AI agents operating software directly ends the SaaS
+> era — a phenomenon the book calls the "Cowork Shock." As stated in the
+> book: "Safety is not a constraint. It is the only way to scale
+> intelligence."
 >
-> **This book** is a documentary by Satoshi Yamauchi, following Anthropic
-> CEO Dario Amodei from his 2016 AI safety paper through the discovery of
-> Scaling Laws and Constitutional AI, to a 2026 setting in which AI agents
-> operating software directly ends the SaaS era — a phenomenon the book
-> calls the "Cowork Shock." As stated in Chapter 3: "Safety and capability
-> are not a trade-off. A safe AI is the most capable AI."
->
-> *著者・全書籍一覧 / Author & full catalog: [github.com/Leading-AI-IO](https://github.com/Leading-AI-IO)*
+> *Author & full catalog: [github.com/Leading-AI-IO](https://github.com/Leading-AI-IO)*
 
 ## Abstract
 "Integrity is the Ultimate Algorithm."<br>
@@ -39,23 +30,17 @@ He didn't need flashy keynotes or grand visions. All he needed was a Constitutio
 This is the definitive account of the "Cowork Shock" and the untold story<br>
 behind Claude Code—the revolution that rewrote the rules of Silicon Valley.<br>
 
-## 概要
-「誠実さこそが、最強の生存戦略（アルゴリズム）である」<br>
-派手なプレゼンも、野心的なビジョンもいらない。<br>
-必要なのは「憲法（Constitution）」と「物理法則（Physics）」だけだった。<br>
-CoworkショックとClaude Codeの衝撃的舞台裏を描く、決定的ドキュメンタリー。<br>
-
 ---
 
 ## 📖 Read the Full Document
 
-### 🇯🇵 [日本語版を読む (Full Japanese Text)](docs/ja/the_silence_of_intelligence.md)
-* **推定読了時間:** 15分
-* **内容:** 序章〜第5章、参考文献までを完全収録。
-
 ### 🇺🇸 [Read in English (Full English Text)](docs/en/the_silence_of_intelligence.md)
 * **Estimated Reading Time:** 15 min
 * **Content:** Complete documentary from Intro to Epilogue.
+
+### 🇯🇵 [日本語版を読む (Full Japanese Text)](docs/ja/the_silence_of_intelligence.md)
+* **Estimated Reading Time (JP):** 15 min
+* **Content (JP):** Complete text from Prologue to Chapter 5, including references.
 
 ---
 
@@ -72,37 +57,35 @@ CoworkショックとClaude Codeの衝撃的舞台裏を描く、決定的ドキ
 
 ## Related Projects
 
-本書は、以下のオープンソースプロジェクトと連携しています。
+This book is connected to the following open-source projects.
 
-| プロジェクト | 概要 | リンク |
+| Project | Overview | Link |
 |---|---|---|
-| **The AI Strategist** | AIストラテジストという職業を定義し、BTC交差点で戦うための実践的フレームワーク | [GitHub](https://github.com/Leading-AI-IO/the-ai-strategist) |
-| **Depth & Velocity** | 生成AI時代の新規事業開発方法論 | [GitHub](https://github.com/Leading-AI-IO/depth-and-velocity) |
-| **The Anatomy of Anthropic** | Anthropicの戦略・製品・研究・安全性を包括的に解剖 | [GitHub](https://github.com/Leading-AI-IO/the-anatomy-of-anthropic) |
-| **The Palantir Impact** | Palantir Foundryのオントロジー戦略を解剖。産業構造の解剖シリーズ第1弾 | [GitHub](https://github.com/Leading-AI-IO/palantir-ontology-strategy) |
-| **What They Won't Teach You** | AIに有利な世代が教えない、AIの使い方と"思考のOS" | [GitHub](https://github.com/Leading-AI-IO/what-they-wont-teach-you) |
-| **The Edge of Intelligence** | AIがあなたのデバイスで動く時代：クラウドの終わりと、エッジの始まり | [GitHub](https://github.com/Leading-AI-IO/edge-ai-intelligence) |
-| **The Redesign of Design Strategy** | デザイン戦略の再定義。IDEO崩壊の構造分析を含む | [GitHub](https://github.com/Leading-AI-IO/design-strategy-in-the-ai-era) |
-| **The Orchestrator** | AI時代に最も希少な人材像「オーケストレーター」を世界で初めて定義 | [GitHub](https://github.com/Leading-AI-IO/the-orchestrator-in-the-ai-era) |
-| **Advertising, Redesigned** | AIが広告を「割り込み」から「優しい提案」に変える。検索の終焉、広告が初めて「歓迎される存在」になる未来。 | [GitHub](https://github.com/Leading-AI-IO/advertising-redesigned) |
-| **The AI Organization** | AI導入が失敗する本質は技術ではなく組織にある。AI時代の組織論 | [GitHub](https://github.com/Leading-AI-IO/the-ai-organization)  |
-| **The Structural Shift from SaaS** | SaaSからService-as-a-Softwareへの構造的転換。Next SaaS ビジネスモデル。| [GitHub](https://github.com/Leading-AI-IO/saas-is-dead-the-next-ai-business-model)  |
-| **The 10:80:10 Principle** | 人とAIの共創黄金比「10:80:10」の法則——AI時代の思考のOS。| [GitHub](https://github.com/Leading-AI-IO/the-10-80-10-principle)  |
-| **A Trillion Dollars and a Firebomb** | 1兆ドルと火炎瓶。AI時代の同時加速する現実。 | [GitHub](https://github.com/Leading-AI-IO/a-trillion-and-a-firebomb)  |
-| **The End of the Attention Economy** | アテンション・エコノミーの終わり。次世代SNSの在り方とは？ | [GitHub](https://github.com/Leading-AI-IO/the-attention-economy-is-over)  |
-| **The Growth Engine of Anthropic** | Anthropicの1兆ドル到達の構造解剖。 | [GitHub](https://github.com/Leading-AI-IO/the-growth-engine-of-anthropic)  |
-| **The Agentic Commerce Economy** | AIエージェントが購買を代行する時代、広告モデルの構造的変化。 | [GitHub](https://github.com/Leading-AI-IO/agentic-commerce-economy)  |
-| **Will ai break the planet** | 数十兆円のインフラ投資と、地球温暖化の「不可逆ライン」。 | [GitHub](https://github.com/Leading-AI-IO/will-ai-break-the-planet)  |
-| **The-forward-deployed-shift** | 成果実装 ── FDEが示す、AIで「作る」が終わった世界の価値のありか。 | [GitHub](https://github.com/Leading-AI-IO/the-forward-deployed-shift)  |
-| **Frontier-Grade Open Weights** | フロンティア級のオープンウェイトモデルは、開かれたのか。 | [GitHub](https://github.com/Leading-AI-IO/frontier-grade-open-weights)  |
+| **The AI Strategist** | Defines the AI Strategist role and provides a practical framework for competing at the BTC intersection | [GitHub](https://github.com/Leading-AI-IO/the-ai-strategist) |
+| **Depth & Velocity** | A methodology for new business development in the generative AI era | [GitHub](https://github.com/Leading-AI-IO/depth-and-velocity) |
+| **The Anatomy of Anthropic** | A comprehensive dissection of Anthropic's strategy, products, research, and safety | [GitHub](https://github.com/Leading-AI-IO/the-anatomy-of-anthropic) |
+| **The Palantir Impact** | Dissecting Palantir Foundry's ontology strategy — Industry Anatomy Series #1 | [GitHub](https://github.com/Leading-AI-IO/palantir-ontology-strategy) |
+| **What They Won't Teach You** | What the AI-advantaged generation won't teach you about AI and the "Thinking OS" | [GitHub](https://github.com/Leading-AI-IO/what-they-wont-teach-you) |
+| **The Edge of Intelligence** | When AI runs on your device: the end of cloud, the beginning of edge | [GitHub](https://github.com/Leading-AI-IO/edge-ai-intelligence) |
+| **The Redesign of Design Strategy** | Redefining design strategy, including a structural analysis of IDEO's decline | [GitHub](https://github.com/Leading-AI-IO/design-strategy-in-the-ai-era) |
+| **The Orchestrator** | The first-ever definition of the rarest role in the AI era | [GitHub](https://github.com/Leading-AI-IO/the-orchestrator-in-the-ai-era) |
+| **Advertising, Redesigned** | An open-source book exploring the future of advertising in the AI era through strategic analysis of 7 companies | [GitHub](https://github.com/Leading-AI-IO/advertising-redesigned) |
+| **The AI Organization** | The root cause of AI failure is not technology. Organizational theory for the AI era | [GitHub](https://github.com/Leading-AI-IO/the-ai-organization) |
+| **The Structural Shift from SaaS** | SaaS Is Dead: The Structural Shift from SaaS to Service-as-a-Software | [GitHub](https://github.com/Leading-AI-IO/saas-is-dead-the-next-ai-business-model) |
+| **The 10:80:10 Principle** | The optimal balance for human-AI synergy: "10:80:10" in the AI era | [GitHub](https://github.com/Leading-AI-IO/the-10-80-10-principle) |
+| **A Trillion Dollars and a Firebomb** | The Parallel Realities of the AI Era | [GitHub](https://github.com/Leading-AI-IO/a-trillion-and-a-firebomb) |
+| **The End of the Attention Economy** | The End of the Attention Economy. What Should the Next SNS Look Like? | [GitHub](https://github.com/Leading-AI-IO/the-attention-economy-is-over) |
+| **The Growth Engine of Anthropic** | Decoding the $1T Trajectory | [GitHub](https://github.com/Leading-AI-IO/the-growth-engine-of-anthropic) |
+| **The Agentic Commerce Economy** | When AI Agents Buy, the Advertising Model Paradigm Shift | [GitHub](https://github.com/Leading-AI-IO/agentic-commerce-economy) |
+| **Will ai break the planet** | The AI Infrastructure Boom and the Race Against the Climate's Point of No Return | [GitHub](https://github.com/Leading-AI-IO/will-ai-break-the-planet) |
+| **The Forward-Deployed Shift** | Where Value Survives When "Building" Is Over | [GitHub](https://github.com/Leading-AI-IO/the-forward-deployed-shift) |
+| **Frontier-Grade Open Weights** | They Matched the Frontier. But No One Can Hold Them | [GitHub](https://github.com/Leading-AI-IO/frontier-grade-open-weights) |
 
 ---
 
 ## Contribution
 Issues and Pull Requests are welcome.<br>
 If you find any typos or have updated information about Palantir and Ontology, please feel free to contribute.
-
-誤字脱字の修正や、最新の論文情報の提供など、エンジニアの皆様からのPull Requestを歓迎します。
 
 ## License
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).<br>
