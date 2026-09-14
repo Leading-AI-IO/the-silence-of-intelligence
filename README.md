@@ -103,6 +103,7 @@
 | **Earned-ai-model-optionality** | AIモデルは選べる。選べるのは、選べるようにした企業だけだ。 | [GitHub](https://github.com/Leading-AI-IO/earned-ai-model-optionality)  |
 | **Us-china-ai-competition** | 米中AI競争の多層構造 ── 決めているのは、強さではなく条件である。 | [GitHub](https://github.com/Leading-AI-IO/us-china-ai-competition)  |
 | **The China AI Registry** | あなたが名前を言える5つの中国AIモデルは、中国が数えているものの1%に満たない。 | [GitHub](https://github.com/Leading-AI-IO/the-china-ai-registry)  |
+| **The AI Forecast Registry** | AI未来予測の名簿 —— AIの未来をめぐる予測を、決着の前に刻む。 | [GitHub](https://github.com/Leading-AI-IO/the-ai-forecast-registry)  |
 
 ---
 
